@@ -1,4 +1,4 @@
-# School-Project-1
+# 2016 Statistical Modeling Competition of SWUFE
 * This project includes all the work we've done in the competition of DM which was hold by my university.
 * The final Submission are composed of three R scripts and a paper
 * Three R scripts are feature, rf and xgb, each of them represents a part of work that is described in our paper
